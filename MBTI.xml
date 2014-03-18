@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <questions>
+        <question number="1">
+                <questionText>Quelle est la plus grande faute</questionText>
+                <answerA>avoir trop de compassion</answerA>
+                <answerB>manquer de compassion</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="2">
+                <questionText>Les faits</questionText>
+                <answerA>parlent d'eux-même</answerA>
+                <answerB>illustrent des principes</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="3">
+                <questionText>Vous préférez</questionText>
+                <answerA>avoir pris une décision</answerA>
+                <answerB>avoir à prendre une décision</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="4">
+                <questionText>Importe-t-il plus</questionText>
+                <answerA>de découvrir ce qui se passe dans le monde</answerA>
+                <answerB>de comprendre le monde avant de l'aborder</answerB>
+                <answerTypeA>extraversion</answerTypeA>
+                <answerTypeB>introversion</answerTypeB>
+        </question>
+        <question number="5">
+                <questionText>Vous êtes fier de</questionText>
+                <answerA>votre solide sens des réalités</answerA>
+                <answerB>votre imagination fertile</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="6">
+                <questionText>Pour vous comparer aux autres vous avez tendance</questionText>
+                <answerA>à être objectif et impartial</answerA>
+                <answerB>amical et personnel</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="7">
+                <questionText>Votre façon d'être c'est</questionText>
+                <answerA>de vous décider rapidement</answerA>
+                <answerB>de prendre votre temps pour décider</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="8">
+                <questionText>Diriez vous plutôt que</questionText>
+                <answerA>vous aimez établir de nouveaux contacts</answerA>
+                <answerB>vous aimez approfondir vos contacts</answerB>
+                <answerTypeA>extraversion</answerTypeA>
+                <answerTypeB>introversion</answerTypeB>
+        </question>
+        <question number="9">
+                <questionText>Vous utilisez le plus souvent</questionText>
+                <answerA>votre sens pratique</answerA>
+                <answerB>votre imagination</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="10">
+                <questionText>Préférez-vous</questionText>
+                <answerA>le contact avec les autres</answerA>
+                <answerB>être seul pour réfléchir</answerB>
+                <answerTypeA>extraversion</answerTypeA>
+                <answerTypeB>introversion</answerTypeB>
+        </question>
+        <question number="11">
+                <questionText>Si vous devez diriger les autres, vous êtes plutôt</questionText>
+                <answerA>ferme et inflexible</answerA>
+                <answerB>souple et indulgent</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="12">
+                <questionText>En général vous préférez</questionText>
+                <answerA>des déclarations fermes et définitives</answerA>
+                <answerB>des déclarations préliminaires et sujettes à modifications</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="13">
+                <questionText>Vous aimez que les choses soient</questionText>
+                <answerA>fermes et définitives</answerA>
+                <answerB>juste esquissées</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="14">
+                <questionText>Etes-vous plutôt du genre</questionText>
+                <answerA>prévoyant</answerA>
+                <answerB>à vivre au jour le jour</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="15">
+                <questionText>Vous vous fiez plus à</questionText>
+                <answerA>vos pensées</answerA>
+                <answerB>vos sentiments</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="16">
+                <questionText>Dans une soirée, vous préférez</questionText>
+                <answerA>que de nombreuses personnes soient présentes</answerA>
+                <answerB>que le nombre de participants soit restreint</answerB>
+                <answerTypeA>extraversion</answerTypeA>
+                <answerTypeB>introversion</answerTypeB>
+        </question>
+        <question number="17">
+                <questionText>Vous faites davantage confiance à</questionText>
+                <answerA>votre expérience</answerA>
+                <answerB>vos opinions</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="18">
+                <questionText>Au travail, vous êtes du genre à</questionText>
+                <answerA>faire remarquer aux autres leurs erreurs</answerA>
+                <answerB>essayer de plaire aux autres</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="19">
+                <questionText>Vous vous considérez comme</questionText>
+                <answerA>quelqu'un de dur</answerA>
+                <answerB>quelqu'un de tendre</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="20">
+                <questionText>Vous avez tendance à</questionText>
+                <answerA>aimer parler</answerA>
+                <answerB>préférez écouter</answerB>
+                <answerTypeA>extraversion</answerTypeA>
+                <answerTypeB>introversion</answerTypeB>
+        </question>
+        <question number="21">
+                <questionText>Quand vous faites la queue, vous avez tendance</questionText>
+                <answerA>à bavarder avec les autres</answerA>
+                <answerB>à attendre sans rien dire</answerB>
+                <answerTypeA>extraversion</answerTypeA>
+                <answerTypeB>introversion</answerTypeB>
+        </question>
+        <question number="22">
+                <questionText>Vous verriez-vous plutôt en tant</questionText>
+                <answerA>que juge</answerA>
+                <answerB>qu'avocat</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="23">
+                <questionText>Vous avez tendance à vous attacher plus</questionText>
+                <answerA>aux faits</answerA>
+                <answerB>aux conjectures</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="24">
+                <questionText>Vous avez tendance à choisir</questionText>
+                <answerA>avec soin</answerA>
+                <answerB>impulsivement</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="25">
+                <questionText>Vous préférez travailler</questionText>
+                <answerA>en suivant un plan d'action</answerA>
+                <answerB>quand ça vous chante</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="26">
+                <questionText>Pour vous exprimer sur un sujet</questionText>
+                <answerA>vous n'avez besoin que de quelques informations</answerA>
+                <answerB>vous avez besoin de bien le connaitre</answerB>
+                <answerTypeA>extraversion</answerTypeA>
+                <answerTypeB>introversion</answerTypeB>
+        </question>
+        <question number="27">
+                <questionText>Dans une discussion animée, vous allez</questionText>
+                <answerA>camper sur vos positions</answerA>
+                <answerB>chercher un terrain d'entente</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="28">
+                <questionText>Vous préférez qu'un écrivain</questionText>
+                <answerA>écrive les choses noir sur blanc</answerA>
+                <answerB>utilise des métaphores et des symboles</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="29">
+                <questionText>Pour prendre une décision vous tenez plutôt compte</questionText>
+                <answerA>des faits</answerA>
+                <answerB>de vos envies</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="30">
+                <questionText>Dans la plupart des situations, vos actions sont</questionText>
+                <answerA>plus délibérées que spontanées</answerA>
+                <answerB>plus spontanées que délibérées</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="31">
+                <questionText>Vous êtes plutôt du genre</questionText>
+                <answerA>dynamique</answerA>
+                <answerB>tranquille</answerB>
+                <answerTypeA>extraversion</answerTypeA>
+                <answerTypeB>introversion</answerTypeB>
+        </question>
+        <question number="32">
+                <questionText>Vous prenez ce qu'on dit</questionText>
+                <answerA>au pied de la lettre</answerA>
+                <answerB>de manière imagée</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="33">
+                <questionText>Avec les gens vous êtes</questionText>
+                <answerA>plus rigides que gentil</answerA>
+                <answerB>plus gentil que rigide</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="34">
+                <questionText>Vous êtes</questionText>
+                <answerA>facile à aborder</answerA>
+                <answerB>plutôt réservé</answerB>
+                <answerTypeA>extraversion</answerTypeA>
+                <answerTypeB>introversion</answerTypeB>
+        </question>
+        <question number="35">
+                <questionText>Vous êtes du genre à</questionText>
+                <answerA>tout fignoler</answerA>
+                <answerB>explorer les possibilités</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="36">
+                <questionText>Qu'est-ce qui est pire</questionText>
+                <answerA>être dans la lune</answerA>
+                <answerB>être dans une ornière</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="37">
+                <questionText>Ce que vous appréciez chez vous c'est</questionText>
+                <answerA>votre côté raisonnable</answerA>
+                <answerB>votre dévouement</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="38">
+                <questionText>Êtes-vous plutôt orienté</questionText>
+                <answerA>vers l'action</answerA>
+                <answerB>vers la réflexion</answerB>
+                <answerTypeA>extraversion</answerTypeA>
+                <answerTypeB>introversion</answerTypeB>
+        </question>
+        <question number="39">
+                <questionText>Vous trouvez que les visionnaires et les théoriciens</questionText>
+                <answerA>sont plutôt barbants</answerA>
+                <answerB>sont plutôt fascinants</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="40">
+                <questionText>Vous avez tendance à remarquer</questionText>
+                <answerA>le désordre</answerA>
+                <answerB>les occasions de changement</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="41">
+                <questionText>Avez-vous plus besoin</questionText>
+                <answerA>justice</answerA>
+                <answerB>d'être apprécié</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="42">
+                <questionText>Vous vous intéressez plus</questionText>
+                <answerA>aux faits</answerA>
+                <answerB>aux possibilités</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="43">
+                <questionText>Vous êtes plus à l'aise pour</questionText>
+                <answerA>arriver à une décision</answerA>
+                <answerB>garder plusieur possibilités</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="44">
+                <questionText>Vous préférez qu'un contrat soit</questionText>
+                <answerA>couché par écrit et signé</answerA>
+                <answerB>conclu sur une poignée de mains</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="45">
+                <questionText>Vous vous exprimez plus en utilisant</questionText>
+                <answerA>les détails</answerA>
+                <answerB>des généralités</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="46">
+                <questionText>Quel est le meilleur compliment</questionText>
+                <answerA>Voilà quelqu'un de logique</answerA>
+                <answerB>Voilà quelqu'un de compréhensif</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="47">
+                <questionText>Il vous est plus facile</questionText>
+                <answerA>d'utiliser les autres</answerA>
+                <answerB>de vous identifier à eux</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="48">
+                <questionText>Au bureau, le désordre est quelque chose</questionText>
+                <answerA>que vous prenez le temps de ranger</answerA>
+                <answerB>que vous tolérez facilement</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="49">
+                <questionText>Vous laissez-vous plutôt conduire par</questionText>
+                <answerA>votre tête</answerA>
+                <answerB>votre coeur</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="50">
+                <questionText>Votre bon sens est</questionText>
+                <answerA>fréquemment trompeur</answerA>
+                <answerB>généralement fiable</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="51">
+                <questionText>Il vaut mieux être</questionText>
+                <answerA>juste</answerA>
+                <answerB>miséricordieux</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="52">
+                <questionText>Quand la fin d'un travail approche, vous préférez</questionText>
+                <answerA>tout laisser bien en ordre</answerA>
+                <answerB>passer à autre chose</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="53">
+                <questionText>Vous préférez qu'on ait</questionText>
+                <answerA>de la suite dans les idées</answerA>
+                <answerB>des relations harmonieuses</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="54">
+                <questionText>Vous vous sentez plutôt</questionText>
+                <answerA>bien sur terre</answerA>
+                <answerB>dans les nuages</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="55">
+                <questionText>Qu'est-ce qui vous satisfait le plus</questionText>
+                <answerA>avoir un produit fini</answerA>
+                <answerB>avoir un travail en cours</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="56">
+                <questionText>Dit-on de vous que vous êtes</questionText>
+                <answerA>pratique</answerA>
+                <answerB>créatif et théorique</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="57">
+                <questionText>Si vous devez décevoir quelqu'un vous préférez être</questionText>
+                <answerA>franc et direct</answerA>
+                <answerB>amical et empathique</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="58">
+                <questionText>Vous préférez</questionText>
+                <answerA>allez vite</answerA>
+                <answerB>prendre votre temps</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="59">
+                <questionText>Êtes-vous davantage porté</questionText>
+                <answerA>sur l'observation</answerA>
+                <answerB>sur l'introspection</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="60">
+                <questionText>Il vaut mieux</questionText>
+                <answerA>faire en sorte que les choses soient arrangées</answerA>
+                <answerB>laisser les choses se produire naturellement</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="61">
+                <questionText>Qu'est-ce qui ferait fléchir</questionText>
+                <answerA>des preuves incontestables</answerA>
+                <answerB>un plaidoyer touchant</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="62">
+                <questionText>Dans des circonstances éprouvantes vous êtes parfois</questionText>
+                <answerA>trop insensible</answerA>
+                <answerB>trop sensible</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="63">
+                <questionText>De vous-même, vous diriez que vous êtes plutôt</questionText>
+                <answerA>sérieux et résolu</answerA>
+                <answerB>facile à vivre</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="64">
+                <questionText>Êtes-vous plutôt</questionText>
+                <answerA>sensé et rationnel</answerA>
+                <answerB>perdu dans vos pensées</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="65">
+                <questionText>Vous êtes attiré par</questionText>
+                <answerA>ce qui est clairement dit</answerA>
+                <answerB>ce qui est implicite</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="66">
+                <questionText>Dans le travail, vous préférez que vos tâches soient</questionText>
+                <answerA>planifiées</answerA>
+                <answerB>non planifiées</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+        <question number="67">
+                <questionText>En général</questionText>
+                <answerA>vous gardez la tête froide</answerA>
+                <answerB>vous êtes chaleureux</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="68">
+                <questionText>Vous vous voyez comme quelqu'un de</questionText>
+                <answerA>dur à cuire</answerA>
+                <answerB>sensible</answerB>
+                <answerTypeA>thinking</answerTypeA>
+                <answerTypeB>feeling</answerTypeB>
+        </question>
+        <question number="69">
+                <questionText>Vous préférez dans une histoire</questionText>
+                <answerA>de l'action et de l'aventure</answerA>
+                <answerB>du fantastique et de l'héroïsme</answerB>
+                <answerTypeA>sensing</answerTypeA>
+                <answerTypeB>intuition</answerTypeB>
+        </question>
+        <question number="70">
+                <questionText>Vous êtes plus</questionText>
+                <answerA>routinier que spontané</answerA>
+                <answerB>spontané que routinier</answerB>
+                <answerTypeA>judging</answerTypeA>
+                <answerTypeB>perception</answerTypeB>
+        </question>
+    </questions>
+    <descriptions>
+        <description id="istj">Sérieux, calme, réussi grâce à sa concentration et sa minutie. Pratique, ordonné, pragmatique, logique, réaliste, digne de confiance. Veille à ce que tout soit bien organisé. Décide par lui-même ce qui doit être fait et l’accomplit méthodiquement sans tenir compte des protestations ni des distractions.</description>
+        <description id="isfj">Calme, amical, responsable, consciencieux. Travaille avec dévouement pour assumer ses responsabilités. Apporte stabilité à un groupe ou un projet. Minutieux, appliquer, précis. Ne s’intéresse en général peu à la technique. A de la patience pour les détails nécessaires. Fidèle, prévenant, perspicace, attentif aux autres.</description>
+        <description id="infj">Réussi grâce à sa persévérance, son originalité et son désir de faire ce qui est nécessaire ou attendu. Consacre tous ses efforts à son travail. Discrètement énergique, consciencieux, soucieux d'autrui respecté pour la fermeté de ses principes. A des chances d'être apprécié et suivi pour sa claire vision du bien commun.</description>
+        <description id="intj">A un esprit original est une grande énergie pour ses idées et les buts qu’il poursuit. A une vision à long terme et trouve rapidement des caractéristiques significatives dans les événements. Dans les domaines qui l'attirent, sait parfaitement organisé son travail et le mener à bien. Sceptique, critique, indépendant, déterminé ; a des critères élevés de compétence et de performance.</description>
+        <description id="istp">Spectateur distancié; calme, réservé, observé analyse la vie avec une curiosité détachée et les pointes d’humour original et parfois inattendu. Habituellement intéressé par les relations et le pourquoi du fonctionnement des techniques, le classement de faits selon des principes logiques. Excelle a arriver au cœur d'un problème pratique et a trouvé la solution.</description>
+        <description id="isfp">Reservé tranquille, sensible, aimable, modeste. Évite les différents, n'impose pas ses valeurs et opinions aux autres. N'a habituellement pas envie de diriger mais plutôt d'être un collaborateur fidèle. Souvent décontracté pour faire ce qu'il a à faire car aime profiter du moment présent et ne veut pas le gâcher par une précipitation ou un effort inutile.</description>
+        <description id="infp">Observateur, discret, idéaliste, fidèle. Attache de l'importance à la cohérence entre sa vie extérieure et ses valeurs intérieures. Curieux, voit rapidement les possibilités, sert souvent de catalyseur à la réalisation d'idées. Adaptable, flexible et tolérant sauf si l'une de ses valeurs est menacée. Veut comprend les gens et comment développer le potentiel humain.</description>
+        <description id="intp">Discret et réservé. Aime particulièrement les activités théoriques ou scientifiques. Aime résoudre les problèmes par l'analyse et la logique. Intéressé surtout par les idées et très peut par les mondanités ou les bavardages. Tant à avoir des centres d'intérêts très précis. A besoin de choisir une profession qui le motive fortement.</description>
+        <description id="estp">Bon pour résoudre les problèmes sur le terrain. Aime l'action, profite de la vie comme elle vient. Aime la mécanique, les sports, en compagnie d'amis. Adaptable, tolérant, pragmatique ; centré sur les résultats. N'aime pas les longues explications. Surtout à l'aise dans le concret, tout ce qui peut se travailler, manipuler, démontrer, assembler.</description>
+        <description id="esfp">Ouvert, tolérant, amicale, se réjouie de tout et rend tout plus agréable pour les autres par son propre enthousiasme. Aime l'action et le mouvement. Est au courant de tout ce qu'il se passe et s'y intègre avec joie. Se souvient plus facilement des faits que des théories. Surtout à l'aise dans les situations qui demande du bon sens et des facilités relationnelles pratiques.</description>
+        <description id="enfp">Chaleureux, enthousiaste, plein de vie, imaginatif. capable de faire à peu près tout ce qu'il l'intéresse. Résout rapidement les difficultés et est prêt à aider tous ceux qui ont un problème. Fait souvant confiance à ses dons d'improvisations au lieu de préparer à l'avance. Trouve en général d'excellentes raisons pour justifier ce qu'il veut.</description>
+        <description id="entp">Vif, astucieux, doué pour de nombreux domaines. D'une compagnie stimulante, alerte, ayant son franc parlé. Peut défendre pour le plaisir deux positions opposées. Plein de ressources pour résoudre des problèmes nouveaux et difficiles, mais peut négliger des tâches routinières. Passe d'un intérêt à l'autre. Trouve facilement des raisons logiques de justifier ce qu'il veut.</description>
+        <description id="estj">Pratique, réaliste, prosaïque, naturellement doué pour les affaires et la mécanique. Peu d'intérêt pour les théories abstraites ; a besoin de voir l'application directe et immédiate de ce qu'il apprend. Aime organiser et diriger. Souvent bon administrateur ; décidé, passe rapidement à la réalisation ; exigeant sur les détails.</description>
+        <description id="esfj">Chaleureux, loquace, aimé de tous, consciencieux, coopératif. A besoin d'harmonie et a souvent le don de la crééer. Toujours en train de rendre service à quelqu'un. A besoin d'être encouragé et apprécié dans son travail. S'intéresse principalement à ce qui affecte directement la vie des gens.</description>
+        <description id="enfj">Sensible et responsable. se soucie vraiment de ce que les autres pensent et essaie de régler les choses en tenat compte. Peut présenter un projet ou conduire une discussion de groupe avec aisance et tact. Sociable, aimé de tous, sympathique, Sensible aux encouragement et à la critique. Aime aider les autres et leur permettre de développer leur potentiel.</description>
+        <description id="entj">Direct, décidé, tempérament de meneur. Élabore et met en place des systèmes globaux pour résoudre les problèmes d'une organisation. Bon pour tout ce qui requière un discour logique et intelligent, comme parler en public. Habituellement bien informé, aime approfondir ses connaissances.</description>
+    </descriptions>
+</root>
